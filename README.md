@@ -1,8 +1,6 @@
 # Delhi_metro_analysis
 Analysis on delhi metro dataset 
 
-Delhi Metro Trips Analysis
-
 # 🧭 Delhi Metro Trips Analysis
 
 This repository contains an exploratory data analysis (EDA) of a **Delhi Metro trip-level dataset** (`delhi_metro_updated.csv`).  
