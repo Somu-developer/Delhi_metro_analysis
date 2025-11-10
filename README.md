@@ -11,7 +11,7 @@ The goal is to understand trip patterns, station usage, ticket types, and time t
 ## 📦 Repository Structure
 
 ├── Delhi_Metro_Dataset.ipynb # Jupyter notebook with step-by-step analysis
-├── delhi_metro_updated.csv # Source data (if available)
+├── delhi_metro_updated.csv # Source data (https://www.kaggle.com/datasets/nikhilkumar766/delhi-metro-dataset)
 └── README.md # Project documentation
 
 ## 🛠️ What the Notebook Does
