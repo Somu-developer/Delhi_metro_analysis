@@ -1,8 +1,6 @@
 # Delhi_metro_analysis
 Analysis on delhi metro dataset 
 
-Delhi Metro Trips Analysis
-
 # 🧭 Delhi Metro Trips Analysis
 
 This repository contains an exploratory data analysis (EDA) of a **Delhi Metro trip-level dataset** (`delhi_metro_updated.csv`).  
@@ -13,7 +11,7 @@ The goal is to understand trip patterns, station usage, ticket types, and time t
 ## 📦 Repository Structure
 
 ├── Delhi_Metro_Dataset.ipynb # Jupyter notebook with step-by-step analysis
-├── delhi_metro_updated.csv # Source data (if available)
+├── delhi_metro_updated.csv # Source data (https://www.kaggle.com/datasets/nikhilkumar766/delhi-metro-dataset)
 └── README.md # Project documentation
 
 ## 🛠️ What the Notebook Does
@@ -81,20 +79,20 @@ jupyter notebook Delhi_Metro_Dataset.ipynb
 The notebook will load and clean the dataset
 Generate summary tables and charts automatically
 
-📊 **Key Insights You Can Derive**
+5. **Key Insights You Can Derive**
 
 Which ticket types are used most frequently
 Which stations appear most as origins and destinations
 How fare changes with distance (scatterplot)
 How trips vary over months (time trend)
 
-🧠 **Dataset Notes**
+6. **Dataset Notes**
 
 remarks has missing values (non-critical text field)
 No line or phase columns, so metro corridor-level analysis isn’t included
 Time-based analysis ignores invalid date rows to avoid NaN grouping
 
-🧱 **Tech Stack**
+7. **Tech Stack**
 
 Python 3.x
 pandas
